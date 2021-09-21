@@ -2,18 +2,17 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Biography",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-09-20T17:18:18-06:00"
+      "contents": "\nMy name is David Bell and I’m a data scientist from Seattle, Washington/Palmer, Alaska. I love all things data science - data viz, data wrangling, machine learning, statistics, and analytics. I love television and film, music (mainly listening, although I do play), podcasts, sports, tech, and above all, esports.\nGitHub\nLinkedIn\nInstagram\nHere are some of my favorite podcasts:\nStraight Fire with Jason McIntyre\nThe Herd with Colin Cowherd\nThe Lost Drive-In\nThe X-Files Podcast\nThe Colin Cowherd Podcast\n\n\n\n",
+      "last_modified": "2021-09-21T10:21:52-06:00"
     },
     {
       "path": "index.html",
       "title": "My Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-20T17:18:19-06:00"
+      "last_modified": "2021-09-21T10:11:58-06:00"
     }
   ],
   "collections": ["posts/posts.json"]

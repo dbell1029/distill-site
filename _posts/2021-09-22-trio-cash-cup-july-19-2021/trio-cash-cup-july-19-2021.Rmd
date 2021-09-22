@@ -1,0 +1,24 @@
+---
+title: "Trio Cash Cup - July 19, 2021"
+date: 2021-07-19
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## EU
+
+[Chapix](https://twitter.com/ChapixFN), [GUILD JannisZ](https://twitter.com/JannisZFN), and [GUILD Hen](https://twitter.com/hentvv) took the crown today in the second trios cash cup of the season, with a whopping five victory royales, 120 elims, and an average placement of 5th, breaking the EU Cash Cup point record in the process. Absolutely dominant performance from the Chapter 2 Season 5 FNCS champions. They didn't have a great grand finals last season due to being contested off-spawn, but they've proved today that they're still among the best and they're going nowhere. It's fun to watch teams with such established chemistry, how their play styles complement each other - it's a work of art. 
+
+[Become Legends Setty](https://twitter.com/Setty2k_), [GAMMA Kami](https://twitter.com/KamiFN1), and [Galaxy Racer teeq](https://twitter.com/teeqFN) placed second with four victory royales, a cool 100 elims, and average placement of 9.2. [100 Thieves MrSavage](https://twitter.com/MrSavage), [Falcon Refsgaard](https://twitter.com/Refsgaaard), and [Nordavind Endretta](https://twitter.com/Endretta) placed 4th with only one victory royale, but an average placement of 3.3 (a 2nd and three 3rd's), and 92 eliminations. 
+
+## NAE
+
+So here's the deal. Last week, 2019 World Cup solo champion [Sentinals Bugha](https://twitter.com/bugha) announced that he would be trioing with Chapter 2 Season 4 and 6 winners [ENDLESS Deyy](https://twitter.com/DeyyFN) and [ENLESS Mero](https://twitter.com/MeroFN), meaning Deyy and Mero would split from their teammate [ENDLESS Reverse2k](https://twitter.com/Reverse2k). Why on *Earth* would they split? They just won FNCS last month, perhaps the first or second most consistent trio in NAE over the last year or so. Deyy and Mero felt said they wanted to trio with an IGL that's more reliable, not having to rely on solo clutches, so they could win more games. Well, the community was a little upset (for good reason). 
+
+Anyways, after lots of drama, Bugha [decided](https://twitter.com/bugha/status/1415393054907842573) he'd rather stick with his original trio, so that left Deyy, Mero, and Reverse to run it back. Good decision lol. Reverse's trio won today's cash cup with two victory royales, 126(!) elims, and an average placement of 9.6. This isn't surprising at all. Reverse might be the smartest player on NAE, and Deyy and Mero are by *far*  the best fighters alive. Tbh I think Mero might be the best controller player of all time, he performs so incredibly well in big tournaments. 
+
+[Luminosity Slackes](https://twitter.com/slackes_), [1% Acorn](https://twitter.com/AcornFN), and [G2 Jahq](https://twitter.com/G2Jahq) placed 2nd. [Ghost Blake](https://twitter.com/blakeps), [Liquid Scoped](https://twitter.com/Scoped), and [Tru North Okis](https://twitter.com/OkisFN) placed 3rd, completing an impressive comeback after a few bad games. 
+
+Trio tournaments are looking really good this season - great, balanced meta. I'm happy Epic have finally decided to give competitive a good loot pool. Wish we had daily cups like last Summer though. 
+

@@ -1,0 +1,13 @@
+---
+title: "Solo Cash Cup - July 25, 2021"
+date: 2021-07-25
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+[Benjy](https://twitter.com/benjyfishy) played out of his mind yesterday, getting 2nd in the EU tournament with two wins, 13th average placement, and seven average elims. He was two points off winning the tourney, but an absolutely dominant performance nonetheless. Benjy's gotta be the most likeable pro. He exudes kindness and is just such a wholesome kid. He's so fun to watch, he'll probably post a video on his [YouTube](https://www.youtube.com/benjyfishy) soon. Benjy's always been a solo demon, he's struggled to find huge success in team modes, but I'm hoping this season is different. I'm watching him play the trio cash cup right now and he's playing well. Fingers crossed.
+
+[XTRA Reet](https://twitter.com/Reetlol) had an amazing day yesterday, winning both the Asia and NA West cash cups. Insane performance. Reet is also a better solo than team player (getting 3rd in FNCS All-Stars last month), but he's a really good fighter. During the NAW tournament, he got four 1st's, a 2nd, and a 3rd, with 6 average elims.
+
+[TSM Commandment](https://twitter.com/TSM_Commandment) won the NAE tournament, with [TNG Chukky](https://twitter.com/ChuckyWFN) and [XTRA Illest](https://twitter.com/illest_) getting 2nd and 3rd respectively. Commandment might be the most naturally talented Fortnite player of all time, kid's insane. 

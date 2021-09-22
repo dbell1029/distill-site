@@ -2,13 +2,13 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome",
-    "description": "Hey there! My name is David Bell and I'm a data scientist. Welcome to my blog.",
+    "description": "Hey there! My name is David Bell and I'm a data scientist. Welcome to my blog. I'll be posting interesting things I learn about data science, reporting progress on projects I’m working on, and my thoughts about the competitive Fortnite scene. Thanks for stopping by.",
     "author": [],
-    "date": "2021-09-21",
+    "date": "2021-09-22",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-21T10:11:58-06:00",
-    "input_file": {}
+    "last_modified": "2021-09-22T14:49:19-06:00",
+    "input_file": "welcome.knit.md"
   }
 ]

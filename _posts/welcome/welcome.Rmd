@@ -1,7 +1,8 @@
 ---
 title: "Welcome"
 description: |
-  Hey there! My name is David Bell and I'm a data scientist. Welcome to my blog.
+  Hey there! My name is David Bell and I'm a data scientist. Welcome to my blog. I'll be posting interesting things I learn about data science, reporting progress on projects I’m working on, and my thoughts about the competitive Fortnite scene. Thanks for stopping by.
+
 output:
   distill::distill_article:
     self_contained: false

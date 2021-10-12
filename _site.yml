@@ -3,7 +3,7 @@ title: "david-bell.net"
 theme: theme.css
 description: |
   david-bell.net
-output_dir: "docs"
+output_dir: "main"
 navbar:
   right:
     - text: "Home"

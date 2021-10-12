@@ -1,5 +1,6 @@
 name: "distill-site"
 title: "david-bell.net"
+theme: theme.css
 description: |
   david-bell.net
 output_dir: "docs"

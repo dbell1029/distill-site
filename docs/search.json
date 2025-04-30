@@ -4,15 +4,15 @@
       "path": "about.html",
       "title": "Biography",
       "author": [],
-      "contents": "\nMy name is David Bell and I’m a data scientist from Seattle, Washington/Palmer, Alaska. I love all things data science - data viz, data wrangling, machine learning, statistics, and analytics. I love television and film, music (mainly listening, although I do play), podcasts, sports, tech, and above all, esports.\nGitHub\nLinkedIn\nInstagram\nHere are some of my favorite podcasts:\nStraight Fire with Jason McIntyre\nThe Herd with Colin Cowherd\nThe Lost Drive-In\nThe X-Files Podcast\nThe Colin Cowherd Podcast\n\n\n\n\n",
-      "last_modified": "2021-10-11T18:18:09-06:00"
+      "contents": "\r\nMy name is David Bell and I’m a data scientist from Seattle, Washington/Palmer, Alaska. I love all things data science - data viz, data wrangling, machine learning, statistics, and analytics. I love television and film, music (mainly listening, although I do play), podcasts, sports, tech, and above all, esports.\r\nGitHub\r\nLinkedIn\r\nInstagram\r\nHere are some of my favorite podcasts:\r\nStraight Fire with Jason McIntyre\r\nThe Herd with Colin Cowherd\r\nThe Lost Drive-In\r\nThe X-Files Podcast\r\nThe Colin Cowherd Podcast\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-04-30T15:46:13-06:00"
     },
     {
       "path": "index.html",
       "title": "david-bell.net",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-10-08T18:50:50-06:00"
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-04-30T15:46:14-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
